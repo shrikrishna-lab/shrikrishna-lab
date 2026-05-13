@@ -18,6 +18,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrikrishna-lab/shrikrishna-lab/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrikrishna-lab/shrikrishna-lab/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shrikrishna-lab/shrikrishna-lab/output/github-snake-light.svg">
+</picture>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shrikrishna-lab&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
