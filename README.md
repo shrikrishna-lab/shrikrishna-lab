@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently pursuing BTech in IT<br>🤝 I’m looking for help to learn Contribute in Open Source<br>🌱 I’m currently learning Basic Java<br>💬 Ask me about<br>⚡ Fun fact
+# Hi there 👋 I'm Shrikrishna
+
+## 💫 About Me
+
+🔭 Currently pursuing **BTech in Information Technology**  
+🚀 Building **AI products, SaaS projects & developer tools**  
+🤝 Looking to collaborate on **Open Source Projects & developer communities**  
+🌱 Currently learning **Java, Full-Stack Development & System Design**  
+🎨 Passionate about **UI/UX, animations, minimal design & creative experiences**  
+💬 Ask me about **AI Tools, Web Development, SaaS, UI/UX & Startup Ideas**  
+⚡ Fun fact: I love turning random late-night ideas into real products on the internet  
+
 
 
 ## 🌐 Socials:
